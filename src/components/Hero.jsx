@@ -14,6 +14,10 @@ const Hero = () => {
                                 <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-medium bg-indigo-900 text-amber-400 mr-2">
                                     New
                                 </span>
+
+                                <h2 className="inline-block px-3 py-1.5 lg:px-4 lg:py-2 rounded-full bg-neutral-900 text-amber-400 font-medium text-sm backdrop-blur-sm border-neutral-800/50">
+                                    <i className="bx bx-trending-up mr-1"></i> Next Generation Design System
+                                </h2>
                             </div>
                         </div>
                     </div>
