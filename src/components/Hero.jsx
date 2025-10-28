@@ -19,6 +19,22 @@ const Hero = () => {
                                     <i className="bx bx-trending-up mr-1"></i> Next Generation Design System
                                 </h2>
                             </div>
+
+                            <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-extrabold tracking-tight text-neutral-900 dark:text-white">
+                                <span className='block mb-1'>Design</span>
+                                <span className="bg-clip-text text-transparent bg-gradient-to-r from-amber-800 via-amber-400 to-amber-600">
+                                    Without Limits
+                                </span>
+                            </h1>
+                            <p className="text-base lg:text-lg text-neutral-700 dark:text-neutral-300 max-w-2xl font-light">
+                                Elevate your web projects with our streamlined design system powered by the latest Tailwind CSS v4. Create stunning user experiences with state-of-the-art theme switching.
+                            </p>
+                            <div className="flex gap-3 items-center">
+                                <div className="h-px bg-neutral-300 dark:bg-neutral-700 w-12"></div>
+                                <p className="uppercase text-xs tracking-widest text-neutral-500 dark:bg-neutral-400 font-medium">
+                                    Transition seamlessly
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
