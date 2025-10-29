@@ -36,6 +36,13 @@ const Hero = () => {
                                 </p>
                             </div>
                         </div>
+
+                        <div className="flex flex-wrap gap-3 lg:gap-4">
+                            <button className="px-6 py-3 lg:px-7 lg:py-3.5 rounded-lg bg-neutral-900 hover:bg-black text-white dark:bg-amber-500 dark:hover:bg-amber-600 dark:text-neutral-900 font-medium shadow-lg hover:shadow-neutral-900/20 dark:hover:shadow-amber-500/20 flex items-center transition group">
+                                <i className="bx bx-code-alt mr-2 lg:mr-3 text-lg lg:text-xl group-hover:rotate-12 transition-transform"></i>
+                                <span>Start Coding</span>
+                            </button>
+                        </div>
                     </div>
                 </div>
             </div>
